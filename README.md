@@ -9,5 +9,6 @@ La clase Asignación se presenta como una superclase que abstrae característica
 # Composición en el modelo 
 la relación de composición entre Agenda y Asignación indica que la agenda está formada por asignaciones que registran las actividades planificadas. Cada asignación corresponde a una categoría específica (como presentación, tarea, evento o evaluación) que fue heredada de la clase Asignación.
 
-
+#Relación entre el estudiante, la agenda y las asignaciones
+Por último, se muesttra la relación entre el estudiante, la agenda y las asignaciones. El estudiante lleva una agenda y un estudiante completa los diferentes tipos de asignaciones que pueda tener pensdiente.  
 
